@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome @Henrique-da-Silva
-- 👀 Sou estudando de Full Stack Developer, iniciante na área estou a procura de um estágio
+- 👀 Sou estudante de Full Stack Developer, iniciante na área estou a procura de um estágio
 - para ingressar no mercado de trabalho.
 
 
