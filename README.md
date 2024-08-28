@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome @Henrique-da-Silva
-- 👀 Sou estudante de Full Stack Developer.
+
 
 
 <!---
